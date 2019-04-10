@@ -1,4 +1,4 @@
-## Go Ethereum
+## Go Ethereum - Commons OS
 
 Official Golang implementation of the Ethereum protocol.
 
